@@ -1,4 +1,4 @@
-Proje 1 [Recep Topaktas]
+Project 1 [Recep Topaktas]
 
 [22,27,16,2,18,6] -> Insertion Sort
 1-)Verilen dizinin sort türüne göre aşamaları nedir ?
@@ -14,12 +14,14 @@ Proje 1 [Recep Topaktas]
 
        cevap=O(n^2)
 
-3-)Time Complexity: Average case: Aradığımız sayının ortada olması,
-Worst case: Aradığımız sayının sonda olması,
-Best case: Aradığımız sayının dizinin en başında olması.
+3-)Time Complexity: 
+     Average case: Aradığımız sayının ortada olması,
+     Worst case: Aradığımız sayının sonda olması,
+     Best case: Aradığımız sayının dizinin en başında olması.
 
 4-)Dizi sıralayınız ve 18 sayısının hangi case kapsamına girdiğini bulunuz?
-Average Case
+   
+   Average Case
 
 
 
